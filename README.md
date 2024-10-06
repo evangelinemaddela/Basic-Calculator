@@ -14,7 +14,7 @@ No additional frameworks: The code is self-contained and doesn't rely on any ext
 
 2.Run the script: Open a terminal or command prompt, navigate to the directory where you saved the file, and execute the following command:
 
-                                                 '''Bash'''
+                                                 Bash
 
 3.Input expression: When prompted, enter the mathematical expression you want to evaluate.
 
